@@ -1,0 +1,15 @@
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ClassConsTask\bin\Debug\net8.0\ClassConsTask.exe
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ClassConsTask\bin\Debug\net8.0\ClassConsTask.deps.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ClassConsTask\bin\Debug\net8.0\ClassConsTask.runtimeconfig.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ClassConsTask\bin\Debug\net8.0\ClassConsTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ClassConsTask\bin\Debug\net8.0\ClassConsTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ClassConsTask\obj\Debug\net8.0\ClassConsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ClassConsTask\obj\Debug\net8.0\ClassConsTask.AssemblyInfoInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ClassConsTask\obj\Debug\net8.0\ClassConsTask.AssemblyInfo.cs
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ClassConsTask\obj\Debug\net8.0\ClassConsTask.csproj.CoreCompileInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ClassConsTask\obj\Debug\net8.0\ClassConsTask.sourcelink.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ClassConsTask\obj\Debug\net8.0\ClassConsTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ClassConsTask\obj\Debug\net8.0\refint\ClassConsTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ClassConsTask\obj\Debug\net8.0\ClassConsTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ClassConsTask\obj\Debug\net8.0\ClassConsTask.genruntimeconfig.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ClassConsTask\obj\Debug\net8.0\ref\ClassConsTask.dll
